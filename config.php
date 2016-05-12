@@ -5,6 +5,7 @@
  * Date: 11/05/2016
  * Time: 23:53
  * Project: RevolutionACC
+ * Description: Arquivo de configuração das constantes utilizadas pelo Framework
  */
 
 //Constantes da conexão com o banco de dados

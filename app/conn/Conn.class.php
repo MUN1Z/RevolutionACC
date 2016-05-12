@@ -4,6 +4,7 @@
  * User: MUNIZ
  * Date: 12/05/2016
  * Time: 00:22
+ * Project: RevolutionACC
  * Description: Classe abstrata de conexão Padrão singleton, retorna um objeto PDO pelo método estatico getCon
  */
 
